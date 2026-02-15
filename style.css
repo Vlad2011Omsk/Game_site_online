@@ -180,7 +180,7 @@ body {
     border-radius: 56px;
     background-color: #69adfd;
     transition: 0.2s ease-in;
-    overflow: clip;
+    overflow-y: clip;
 }
 
 .dota-img img {
